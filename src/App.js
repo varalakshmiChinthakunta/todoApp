@@ -31,7 +31,7 @@ function App() {
  return (
  <div className="App">
  <TodoList />
- <h1>Varalakshmi</h1>
+ <h1>Varalakshmi Vibha</h1>
  </div>
  ); 
 }
